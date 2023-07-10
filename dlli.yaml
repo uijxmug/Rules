@@ -1,0 +1,14 @@
+payload:
+  # 内容：代理
+  # 数量：11条
+  - DOMAIN-SUFFIX,brew.sh
+  - DOMAIN-SUFFIX,files.pythonhosted.org
+  - DOMAIN-SUFFIX,pypi.org
+  - DOMAIN-SUFFIX,v2rayssr.com
+  - DOMAIN-SUFFIX,cf5.rackcdn.com
+  - DOMAIN,dl.google.com
+  - DOMAIN-KEYWORD,namesilo
+  - DOMAIN-KEYWORD,backblaze
+  - DOMAIN-SUFFIX,steamdb.info
+  - DOMAIN-SUFFIX,fig.io
+  - DOMAIN-SUFFIX,macosicons.com
