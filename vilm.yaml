@@ -1,6 +1,6 @@
 payload:
   # 内容：直连
-  # 数量：26条
+  # 数量：27条
   - DOMAIN-SUFFIX,uijxmug.top
   - DOMAIN-SUFFIX,hqyswq.top
   - DOMAIN-SUFFIX,snychng.top
@@ -27,3 +27,4 @@ payload:
   - IP-CIDR,140.99.209.234/32
   - DOMAIN-SUFFIX,wetab.link
   - DOMAIN-SUFFIX,colamanhua.com
+  - DOMAIN,busuanzi.ibruce.info
